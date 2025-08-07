@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Media 360 Muslim Experts</title>
+    <link href="./feed.xml" rel="self" />
+    <link href="./../media/index.html" />
+    <updated>2025-05-30T20:03:09+05:00</updated>
+    <author>
+        <name>360 Muslim Experts</name>
+    </author>
+    <id>./../media/index.html</id>
+
+    <entry>
+        <title>10 Blessed Days of Zul Hijjah</title>
+        <author>
+            <name>Ibtisam Shahid</name>
+        </author>
+        <link href="./10-blessed-days-of-zul-hijjah/index.html"/>
+        <id>./10-blessed-days-of-zul-hijjah/index.html</id>
+        <media:content url="./media/posts/3/23-3.png" medium="image" />
+            <category term="zul hijjah"/>
+            <category term="islam"/>
+            <category term="hajj"/>
+
+        <updated>2025-05-30T15:07:32+05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="./media/posts/3/23-3.png" alt="" />
+                    نبی کریم صلی اللہ علیہ وسلم نے فرمایا ان دنوں کے عمل سے زیادہ کسی دن کے عمل میں فضیلت نہیں ۔ لوگوں نے پوچھا اور جہاد میں بھی نہیں ۔ آپ نے فرمایا کہ ہاں جہاد میں بھی نہیں سوا اس شخص کے جو&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="./media/posts/3/23-3.png" class="type:primaryImage" alt="" /></p>
+                <p class="align-center">نبی کریم صلی اللہ علیہ وسلم نے فرمایا ان دنوں کے عمل سے زیادہ کسی دن کے عمل میں فضیلت نہیں ۔ لوگوں نے پوچھا اور جہاد میں بھی نہیں ۔ آپ نے فرمایا کہ ہاں جہاد میں بھی نہیں سوا اس شخص کے جو اپنی جان و مال خطرہ میں ڈال کر نکلا اور واپس آیا تو ساتھ کچھ بھی نہ لایا (سب کچھ اللہ کی راہ میں قربان کر دیا)<br><a href="https://sunnah.com/bukhari:969" target="_blank" rel="noopener noreferrer">Sahih Bukhari: 969</a></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="./media/posts/3/gallery/16-2.png" data-size="1080x1080"><img decoding="async" loading="lazy" src="./media/posts/3/gallery/16-2-thumbnail.webp" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="./media/posts/3/gallery/17-2.png" data-size="1080x1080"><img decoding="async" loading="lazy" src="./media/posts/3/gallery/17-2-thumbnail.webp" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="./media/posts/3/gallery/21-2.png" data-size="1080x1080"><img decoding="async" loading="lazy" src="./media/posts/3/gallery/21-2-thumbnail.webp" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="./media/posts/3/gallery/22-2.png" data-size="1080x1080"><img decoding="async" loading="lazy" src="./media/posts/3/gallery/22-2-thumbnail.webp" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="./media/posts/3/gallery/24-2.png" data-size="1080x1080"><img decoding="async" loading="lazy" src="./media/posts/3/gallery/24-2-thumbnail.webp" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="./media/posts/3/gallery/23-2.png" data-size="1080x1080"><img decoding="async" loading="lazy" src="./media/posts/3/gallery/23-2-thumbnail.webp" alt="" width="720" height="720"></a></figure>
+</div></div>
+<p><br><a href="https://www.instagram.com/p/DKRSnqLI7i0/?igsh=MXU0YThpejcyYTB5dA==" target="_blank" rel="noopener noreferrer">Instagram Post</a><br><a href="https://www.facebook.com/share/p/16HQiTkMuZ/?mibextid=ZbWKwL" target="_blank" rel="noopener noreferrer">Facebook Post</a><br><a href="https://chat.whatsapp.com/IqSfcnMj0j200RWfX3ZKdI">WhatsApp Community Group</a></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
